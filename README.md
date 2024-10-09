@@ -1,7 +1,7 @@
 ## TOMAN BIKE SHARE EXPLORATORY DATA ANALYSIS
 ### PROJECT OVERVIEW
 ---
-This is an End to End Exploratory Data Analysis project for Toman Bike share. The project seeks to answer key performance metrics from the datasets available for informed business decision-making. One significant aspect of this analysis is to provide key recommendation regarding the prospects of raising prices for Bike rentals and forcasting market ooutcomes with data.
+This is an End to End Exploratory Data Analysis project for Toman Bike share. The project seeks to answer key performance metrics from the datasets available for informed business decision-making. One significant aspect of this analysis is to provide key recommendation regarding the prospects of raising prices for Bike rentals and forcasting market outcomes with data.
 
 
 [Dasboard](2021 Toman Bike-share Performance Metrics)
@@ -18,16 +18,17 @@ Dataset for this project was downloaded from kaggle:[Download here](https://www.
 
 ### TOOLS AND TASKS
 - Excel:Dataset was first opened in excel for review and familiarization ofcolumns and rows
-- SQL:  A new database was created in the MICROSOFT SQL SERVER MANAGEMENT STUDIO (SSMS), from which the datasets was imported as a flat file.
-- POWERBI: Dynamic charts and dasboard was created in the microsoft PowerBI through connections from SQL Database.
+- SQL:  A new database was created in the MICROSOFT SQL SERVER MANAGEMENT STUDIO (SSMS), from which the dataset was imported as a flat file.
+- POWERBI: Dynamic charts and REPORTS were created in the microsoft PowerBI through connections from SQL Database.
 
 ### PRE-ANALYSIS ACTIONS
-- Joining Tables: The Bike_share_yr_0 and Bike_share_yr_1 tables were joined by performing a full join.
+- Joining Tables: The Bike_share_yr_0 and Bike_share_yr_1 tables were joined by performing a full  join.
 - CTEs: Common table expressions (CTEs) was used as the main block of SQL code to perform all the processes and exploratory analysis.
 - Desired Columns: All columns needed for the analysis were also selected below the CTE, while also adding the Cost table in the same block
 
  ### PERFORMANCE METRICS
-  - Profit and Revenue Trends:Progressive Increase from year 2021 to 2022
+  - Profit and Revenue Trends:Progressive Increase from year 2021 to 2022, with almost $4M made.
+  - Price Increase: Over 25% observable increase.
   - Seasonal Revenue: Steady increase from season 1 to 3.
   - Rider Demographics: Over 80% registered users compared to casual users.
 
