@@ -39,6 +39,8 @@ Dataset for this project was downloaded from kaggle:[Download here](https://www.
 
 ### REFERENCES
 [Kaggle](https://www.kaggle.com/)
+
+[SQL](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
  
   
 
