@@ -2,6 +2,16 @@
 ### PROJECT OVERVIEW
 This is an End to End Exploratory Data Analysis project for Toman Bike share. The project seeks to answer key performance metrics from the datasets available for informed business decision-making. One significant aspect of this analysis is to provide key recommendation regarding the prospects of raising prices for Bike rentals and forcasting market ooutcomes with data.
 
+
+[Dasboard](2021 Toman Bike-share Performance Metrics)
+<img width="479" alt="Screenshot 2024-10-09 234547" src="https://github.com/user-attachments/assets/afa7c107-fd67-433b-9c14-7a8214dc197c">
+
+
+[Dashboard](2022 Toman Bike-Share Performance Metrics)
+
+<img width="479" alt="Screenshot 2024-10-09 234742-2" src="https://github.com/user-attachments/assets/19a04dcb-22ff-4224-83d4-e1319af5a226">
+
+
 ### DATA SOURCE
 Dataset for this project was downloaded from kaggle:[Download here](https://www.kaggle.com/datasets/walmalki/toman-bike-share-dataset)
 
