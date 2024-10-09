@@ -1,5 +1,6 @@
 ## TOMAN BIKE SHARE EXPLORATORY DATA ANALYSIS
 ### PROJECT OVERVIEW
+---
 This is an End to End Exploratory Data Analysis project for Toman Bike share. The project seeks to answer key performance metrics from the datasets available for informed business decision-making. One significant aspect of this analysis is to provide key recommendation regarding the prospects of raising prices for Bike rentals and forcasting market ooutcomes with data.
 
 
